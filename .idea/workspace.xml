@@ -4,15 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="22839276-be6b-4480-8827-d14efcbfdce8" name="Changes" comment="Restructure Folder Stuff">
-      <change afterPath="$PROJECT_DIR$/nukkit/src/main/resource/plugin.yml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/nukkit/src/main/rimakixapi.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pnx/src/main/resource/plugin.yml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/gradle.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/gradle.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/settings.gradle.kts" beforeDir="false" afterPath="$PROJECT_DIR$/settings.gradle.kts" afterDir="false" />
-    </list>
+    <list default="true" id="22839276-be6b-4480-8827-d14efcbfdce8" name="Changes" comment="Init some Classes" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -213,11 +205,20 @@
       <option name="project" value="LOCAL" />
       <updated>1761879374639</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="Init some Classes">
+      <option name="closed" value="true" />
+      <created>1761881685230</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1761881685230</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Restructure Folder Stuff" />
-    <option name="LAST_COMMIT_MESSAGE" value="Restructure Folder Stuff" />
+    <MESSAGE value="Init some Classes" />
+    <option name="LAST_COMMIT_MESSAGE" value="Init some Classes" />
   </component>
 </project>

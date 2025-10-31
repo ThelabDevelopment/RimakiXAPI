@@ -1,0 +1,25 @@
+#name, main, version and api are required
+name: RimakiXAPI
+main: net.rimakixapi.nukkit.rimakixapi
+#remember version and api is string, don't write it like this: 1.0.0, or there will be an exception
+version: "1.0.0"
+api: ["1.0.5"] # idk what is current api api-version
+load: POSTWORLDS
+author: RimakiProject & Thelabdevelopment
+# Authors and author will be added together in one list.
+authors: ["RimakiTaema"]
+description: The API For Rimaki's Plugin
+website: https://github.com/Thelabdevelopment/RimakiXAPI
+# These dependencies are required for the plugin to start.
+#depend: ["OtherPlugin", "ThisPlugin"]
+# These dependencies are not required.
+softdepend: []
+# Log prefix in console
+prefix: "RimakiXAPI"
+# Plugin will be loaded before these. Any cyclic loadbefore's or dependencies's will throw errors!
+loadbefore: []
+
+commands:
+  # TODO Add Command function
+permissions:
+  # TODO Add Commands and Stuff that need perms

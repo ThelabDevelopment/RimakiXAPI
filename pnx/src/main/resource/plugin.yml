@@ -1,0 +1,11 @@
+name: RimakiXAPI
+main: net.rimakixapi.pnx.main
+# Remember: version and api must be strings, use quotes like "1.0.0"
+version: "1.0.0"
+api: "2.0.0"
+load: POSTWORLD
+author: PowerNukkitX Team
+# author and authors are treated as one combined list
+authors: ["Example", "Another"]
+description: Example plugin from PNX documentation
+website: https://docs.powernukkitx.org/

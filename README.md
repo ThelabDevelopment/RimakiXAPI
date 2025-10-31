@@ -1,2 +1,2 @@
 # RimakiXAPI
-The API for my all plugin in bedrock based software
+The Rimaki's Bedrock Java Based Server Software API
